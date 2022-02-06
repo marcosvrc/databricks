@@ -12,10 +12,8 @@
 
 ----
 
-### Premisas e pré requisitos
+### Estrutura de pastas
 
-
-Estrutura de pastas:
 
 + databricks
     + apostila do curso
